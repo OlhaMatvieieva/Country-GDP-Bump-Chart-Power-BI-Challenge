@@ -1,4 +1,5 @@
 ## Country GDP Bump Chart Power BI Challenge (Workout Wednesday W45/2024)
+![image](https://github.com/user-attachments/assets/fcb2c2d3-f196-4daf-8f33-7662726e0133)
 
 This project was created as part of the [Workout Wednesday Power BI Challenge – Week 45/2024](https://workout-wednesday.com/pbi-2024-w45/). The task was to recreate a **bump chart** showing the **GDP ranking of countries over time**. The chart visualizes how countries move up and down in the ranking from **2000 to 2022** based on GDP data.
 
